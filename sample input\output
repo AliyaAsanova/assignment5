@@ -1,0 +1,18 @@
+### Sample Input
+```
+1  # Show Devices
+1  # Select first device (Smartphone)
+2  # Enter quantity
+2  # Show Cart
+3  # Checkout
+```
+
+### Sample Output
+```
+iPhone 13 - $999 - Stock: 10 - Warranty: 24 months - Screen: 6.1" - Battery: 20h
+Added 2 iPhone 13 to cart.
+iPhone 13 - Quantity: 2
+Total price: $1998
+Purchase successful! Total price: $1998
+```
+
