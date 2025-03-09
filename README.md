@@ -38,8 +38,6 @@ When you run `main.py`, you will see the following menu:
 - Select `3` to proceed to checkout and finalize your purchase.
 - Select `4` to exit the program.
 
-## UML Class Diagram
-*(Include an image of your UML diagram here)*
 
 ## Sample Input/Output
 
@@ -71,6 +69,7 @@ Purchase successful! Total price: $1998
 
 ## License
 This project is licensed under the MIT License.
-
+## UML Class Diagram
+*Down below is the uml picture*
 
 ![uml electronic devices](https://github.com/user-attachments/assets/ebd7173a-0917-430c-a4e9-ddd6c3860d3c)
